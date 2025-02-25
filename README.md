@@ -1,11 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PAQUINE CAMILLA
 =======================================================================================================================================
-
-Student developer
+Student developer,
+I have interest in learning and masterring programming skills. My goals are to acquire the needed skills to solve problems using technology, to finish my training and get certified.
+Python programming Language
+currently I am not doing any project. 
+Contact Information: paquinecamilla@gmail.com
 -----------------
-
-Am currently learning with help from docs.github.com
-
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [paquinecamilla@gmail.com](mailto:paquinecamilla@gmail.com)
 * 🧠  I'm learning Exploring object - oriented programming ( OOP)
